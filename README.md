@@ -17,8 +17,11 @@ Create backend
 
 
 npm install
+
 ng update
+
 npm update
+
 
 Create frontend
 
