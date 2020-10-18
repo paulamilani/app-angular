@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta BIC",
+      "price": "15.89"
+    },
+    {
+      "id": 2,
+      "name": "notebook mac",
+      "price": 1685.89
+    },
+    {
+      "id": 3,
+      "name": "samsung s7",
+      "price": 885.89
+    },
+    {
+      "id": 3,
+      "name": "Monitor Dell",
+      "price": 785.89
+    },
+    {
+      "id": 3,
+      "name": "Teclado multilaser",
+      "price": 85.89
+    },
+    {
+      "name": "post it amarelo",
+      "price": "5.60",
+      "id": 4
+    }
+  ]
+}
